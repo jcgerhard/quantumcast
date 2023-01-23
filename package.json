@@ -3,7 +3,7 @@
   "name": "quantumcast",
   "title": "Quantumcast",
   "description": "A Raycast extension tailored for HYBRID Software engineers",
-  "icon": "command-icon.png",
+  "icon": "quantumcast-main-512x512.png",
   "author": "jcgerhard",
   "categories": [
     "Applications",
