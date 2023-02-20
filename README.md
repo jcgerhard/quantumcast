@@ -1,9 +1,11 @@
-<p align="center">
-  <img src="assets/quantumcast-readme-300x180.png" height="180px">
+<div align="center">
+  <img alt="Quantumcast Logo" src="./assets/quantumcast.png" height="128px">
+  <h1>quantum|cast</h1>
   <h3 align="center">
     A <a href="https://www.raycast.com" target="_blank"  style="text-decoration: none">Raycast</a> extension tailored for
-    <a href="https://www.hybridsoftware.com" target="_blank" style="text-decoration: none">HYBRID Software PLC</a> engineers</h3>
-</p>
+    <a href="https://www.hybridsoftware.com" target="_blank" style="text-decoration: none">HYBRID Software PLC</a> engineers
+  </h3>
+</div>
 <br/>
 <p align="center">
   <a href="https://www.packz.com" target="_blank"><img src="https://img.shields.io/badge/Made%20for-PACKZ-C60061?style=flat-square"/></a>
