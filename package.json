@@ -13,15 +13,22 @@
   "license": "MIT",
   "commands": [
     {
-      "name": "cloudflow",
-      "title": "Cloudflow",
-      "subtitle": "Quantumcast - Cloudflow",
-      "description": "",
+      "name": "cloudflow-manual",
+      "title": "Cloudflow Manual",
+      "subtitle": "Quantumcast",
+      "description": "Open the Cloudflow manual in the default browser.",
+      "mode": "no-view"
+    },
+    {
+      "name": "packz-manual",
+      "title": "Packz Manual",
+      "subtitle": "Quantumcast",
+      "description": "Open the Packz manual in the default browser.",
       "mode": "view"
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.46.0"
+    "@raycast/api": "^1.47.3"
   },
   "devDependencies": {
     "@types/node": "18.8.3",
