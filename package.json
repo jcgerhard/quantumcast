@@ -6,25 +6,27 @@
   "icon": "quantumcast.png",
   "author": "jcgerhard",
   "categories": [
-    "Applications",
     "Developer Tools",
     "Productivity"
   ],
   "license": "MIT",
   "commands": [
     {
-      "name": "cloudflow-manual",
-      "title": "Cloudflow Manual",
+      "name": "open-cloudflow-manual",
+      "title": "Open Cloudflow Manual",
       "subtitle": "Quantumcast",
-      "description": "Open the Cloudflow manual in the default browser.",
+      "description": "Open the Cloudflow documentation in the browser.",
       "mode": "no-view"
-    },
+    }
+  ],
+  "preferences": [
     {
-      "name": "packz-manual",
-      "title": "Packz Manual",
-      "subtitle": "Quantumcast",
-      "description": "Open the Packz manual in the default browser.",
-      "mode": "view"
+      "name": "cloudflowBaseUrl",
+      "title": "Cloudflow Base URL",
+      "description": "The domain or IP address of Cloudflow",
+      "type": "textfield",
+      "required": true,
+      "default": "http://127.0.0.1:9090"
     }
   ],
   "dependencies": {
