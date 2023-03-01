@@ -30,7 +30,8 @@
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.47.3"
+    "@raycast/api": "^1.48.5",
+    "quantumlib": "^0.0.7"
   },
   "devDependencies": {
     "@types/node": "18.8.3",
