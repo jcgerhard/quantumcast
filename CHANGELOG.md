@@ -4,8 +4,9 @@
 
 💎 Improvements
 
-- Adding package `quantumlib` as runtime dependency
+- Adding package `quantumlib` runtime dependency
 - Update package `@raycast/api` to v1.48.5
+- Redesign the README
 
 ## 0.0.1 - 2023-02-25
 
